@@ -2,12 +2,25 @@
  color: red;
  font: italic;
 }
-
-
-
-
 .best {
   font-size: 24px;
   color: hotpink;
   font-weight: bold;
+}
+img {
+  width:200px;
+  height: auto;
+}
+h2.intro {
+  color: yellowgreen;
+  font:italic;
+  font-size: 50px;
+}
+p.intro {
+  color: grey;
+  font: bold;
+}
+img. intro {
+  width: 400px;
+  height:auto
 }
